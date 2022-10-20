@@ -33,32 +33,32 @@ body {
   background-color: hsl(0, 0%, 100%);
 }
 
-.qrCode {
+.card-qrCode {
   margin-top: 50%;
 }
 
-.qrCode img {
+.card-qrCode img {
   border-radius: 10px;
   margin: 10px 12px 10px 12px;
   max-width: 275px;
   max-height: 300px;
 }
 
-.about-qrCard {
+.card-about {
   width: 260px;
   height: 100px;
 
   margin: auto;
 }
 
-.title-card {
+.card-title {
   text-align: center;
   font-size: 20px;
   font-family: Outfit;
   margin: 0px;
 }
 
-.text-card {
+.card-text {
   text-align: center;
   font-size: 15px;
   font-family: Outfit;
