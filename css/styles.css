@@ -33,6 +33,10 @@ body {
   background-color: hsl(0, 0%, 100%);
 }
 
+.qrCode {
+  margin-top: 50%;
+}
+
 .qrCode img {
   border-radius: 10px;
   margin: 10px 12px 10px 12px;
